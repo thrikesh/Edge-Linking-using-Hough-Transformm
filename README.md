@@ -84,3 +84,5 @@ plt.axis('off')
 ### Display the result of Hough transform
 ![image](https://github.com/user-attachments/assets/b5b94019-56e6-46ae-ba3d-cd98b09975c1)
 
+## Result:
+Thus, the program to detect the lines using Hough Transform implemented successfully.
